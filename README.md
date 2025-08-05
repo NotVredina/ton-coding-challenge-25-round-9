@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-2385274bd2cf80db9deac2717ac17bf1
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 =  @ejjkdkde
+2. 你的主网 TON 钱包地址 = UQD6bEj11xfAn7XO6y75H7cX_I5-gfyrx3LT4kWl05t8QlwT
 
 
 ## 任务 1：创建和部署一个 Tolk 合约
@@ -44,7 +44,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将这 2 个文件同时提交到本项目的根目录，文件名为 = ?
+1. 将这 2 个文件同时提交到本项目的根目录，文件名为 =  counter.func, counter.tolk.ts
 
 ---
 
